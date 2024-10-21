@@ -1,0 +1,1 @@
+Keep it empty and delete this readme file after u cloned this on ur local here the results pictured will store 
